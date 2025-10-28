@@ -1,6 +1,6 @@
 /*
   날짜 : 2025/10/28
-  이름 : 김철학
+  이름 : 장진원
   내용 : 6장 Navigation 데이터 전달 실습
  */
 import 'package:flutter/material.dart';
